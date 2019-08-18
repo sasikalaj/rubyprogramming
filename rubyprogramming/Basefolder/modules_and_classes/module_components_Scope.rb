@@ -1,4 +1,5 @@
-# Components inside modules by default or neither module methods or instance
+# Components inside modules by default or neither module methods
+# or instance
 # methods. That is
 # you cannot access componentent of a module just by using the
 # modulename identifier
@@ -41,4 +42,13 @@ module GhostMS
 end
 puts GhostMS.reflect == GhostMS # => true
 
+class Goo
+  extend A
+end
 
+# Goo.attribute1
+b = Goo.new
+# b.attribute1 it did not know the attribute1
+
+b.extend(A)
+b.attribute1 # passed but no value was returned

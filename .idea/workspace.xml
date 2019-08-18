@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="917acce9-bb0c-4f92-9e20-3ebecfec0f0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_inside_module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/classes_components_scope.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/classes_components_scope.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_components_Scope.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_components_Scope.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_extends_module.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_extends_module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/utilsmodule.rb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,79 +16,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_extends_modules.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/notes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-924">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/object_extends_modules.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_components_Scope.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+            <state relative-caret-position="1166">
+              <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_extends_module.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/helper_example.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/utilsmodule.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="352">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/namespacecollision.rb">
+        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_extends_modules.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="1276">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_inside_module.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/Inheritance/inherit.rb">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs25/module.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="-481">
+              <caret line="272" column="8" selection-start-line="272" selection-start-column="8" selection-end-line="272" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/access_modifiers/accessor.rb">
+        <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/classes_components_scope.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+            <state relative-caret-position="220">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -98,12 +81,15 @@
       <list>
         <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/access_modifiers/accessor.rb" />
         <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/notes.rb" />
+        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/helperclass.rb" />
+        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/helper_example.rb" />
+        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/namespacecollision.rb" />
+        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/utilsmodule.rb" />
+        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_includes_module.rb" />
+        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/classes_components_scope.rb" />
         <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_components_Scope.rb" />
         <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_extends_module.rb" />
-        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/helperclass.rb" />
-        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/namespacecollision.rb" />
-        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/helper_example.rb" />
-        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/utilsmodule.rb" />
+        <option value="$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_inside_module.rb" />
       </list>
     </option>
   </component>
@@ -119,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,12 +128,34 @@
               <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
               <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
               <item name="Basefolder" type="462c0819:PsiDirectoryNode" />
+              <item name="access_modifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="Basefolder" type="462c0819:PsiDirectoryNode" />
+              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="Basefolder" type="462c0819:PsiDirectoryNode" />
               <item name="modules_and_classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyprogramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="rubyprogramming" type="462c0819:PsiDirectoryNode" />
+              <item name="Basefolder" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.utilsmodule">
+  <component name="RunManager" selected="Ruby.class_inside_module">
     <configuration name="accessor" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyprogramming" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -180,6 +187,45 @@
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/rubyprogramming/Basefolder/access_modifiers/accessor.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_inside_module" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="rubyprogramming" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/rubyprogramming/Basefolder/modules_and_classes" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_inside_module.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classes_components_scope" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="rubyprogramming" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/rubyprogramming/Basefolder/modules_and_classes" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/rubyprogramming/Basefolder/modules_and_classes/classes_components_scope.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="module_components_Scope" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="rubyprogramming" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/rubyprogramming/Basefolder/modules_and_classes" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_components_Scope.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -198,6 +244,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.class_inside_module" />
+        <item itemvalue="Ruby.module_components_Scope" />
+        <item itemvalue="Ruby.classes_components_scope" />
         <item itemvalue="Ruby.utilsmodule" />
         <item itemvalue="Ruby.accessor" />
       </list>
@@ -214,27 +263,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566054556722</updated>
-      <workItem from="1566054559415" duration="5142000" />
+      <workItem from="1566054559415" duration="13844000" />
+      <workItem from="1566082256738" duration="1143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5142000" />
+    <option name="totallyTimeSpent" value="14987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1107" height="702" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24880838" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.27645376" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32969034" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.1985428" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32969034" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32969034" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32969034" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.15118398" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -256,9 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubyprogramming/projectruby.textClipping">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/access_modifiers/accessor.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
@@ -266,25 +313,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_components_Scope.rb">
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/projectruby.textClipping">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/strings/string_interpolation.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        <state relative-caret-position="129">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/notes.rb">
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/utilsmodule.rb" />
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/calledscr.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
+        <state relative-caret-position="-775" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/object_extends_modules.rb">
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/callinscrp.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_extends_module.rb">
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/firstcode.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/self_class_inside_class_compenents_scope.rb">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/self_class_inside_modules.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/self_modules_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4801" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_includes_module.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/helper_example.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/init_initialize_modules_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/namespacecollision.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -293,19 +374,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/helper_example.rb">
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/notes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/example_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_includes_module.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/utilsmodule.rb">
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/object_extends_modules.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_components_Scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/module_extends_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_extends_modules.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66" />
+        <state relative-caret-position="1276">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/classes_components_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs25/module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="272" column="8" selection-start-line="272" selection-start-column="8" selection-end-line="272" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubyprogramming/Basefolder/modules_and_classes/class_inside_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
       </provider>
     </entry>
   </component>
