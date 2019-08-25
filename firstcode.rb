@@ -1,28 +1,4 @@
-module Plgk
-  module OSHelper
-    # Return operational system
-    # @return [Symbol]
-    def os
-      @os ||= begin
-        host_os = RbConfig::CONFIG['host_os']
-        log_message(host_os)
-        case host_os
-        when /mswin|msys|mingw|cygwin|bccwin|wince|emc/
-          :windows
-        when /darwin|mac os/
-          :macosx
-        when /linux/
-          :linux
-        when /solaris|bsd/
-          :unix
-        else
-          raise Error::WebDriverError, "unknown os: #{host_os.inspect}"
-        end
-      end
-    end
-  end
-end
-
+#!/usr/local/bin/ruby
 puts 'output of put statment'
 puts "Hello Matz" 
 #you can also add /usr/bin/env ruby as the first line 
@@ -40,4 +16,15 @@ puts 'o/p of multiply by *'
 puts 'Hello Matz' * 3
 puts 'o/p of multiply by times'
 5.times { print "Hello Matz" } 	
+a=5 
+if a == 4 
+  begin 
+    return 
+  ensure a = 30; puts a 
+  end
+else 
+  a = 6
+  puts a 
+end 
+puts a 
 

@@ -1,4 +1,4 @@
-module Plgk
+module Plg
   module OSHelper
     # Return operational system
     # @return [Symbol]
